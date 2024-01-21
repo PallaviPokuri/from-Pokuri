@@ -3,9 +3,7 @@
 ## Favorite Restaurant: **Kurry Leaves**
 I love the kurry leaves restaurant because the food is **delicious** and the restaurant's interior is special which describes **Indian tradition**.The restaurant is very famous for **Indian cuisine**.
 <html>
-<head>
-    <title>Kurry Leaves Food Menu</title>
-</head>
+<head>Kurry Leaves Food Menu</head>
 <body>
     <ol>
         <li>Special Biryani</li>
@@ -16,6 +14,5 @@ I love the kurry leaves restaurant because the food is **delicious** and the res
     <ul>
         <li>Watterfalls</li>
         <li>Exhibition</li>
-        <li>Museum<li>
-    </ul>
+        <li>Museum<li></ul>
 </body>
