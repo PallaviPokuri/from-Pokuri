@@ -7,6 +7,8 @@ I love the kurry leaves restaurant because the food is **delicious** and the res
 
 ### My favorite dishes
 
+---
+
 1. Chicken Biryani
 2. Fish fry
 3. Potato fry
