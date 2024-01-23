@@ -11,7 +11,7 @@ I love the kurry leaves restaurant because the food is **delicious** and the res
 2. Fish fry
 3. Potato fry
 
-#### Places to visit near Kurry Leaves
+### Places to visit near Kurry Leaves
 
 - Waterfalls
 - Beach
