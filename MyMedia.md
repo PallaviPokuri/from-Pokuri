@@ -1,4 +1,0 @@
-# Pallavi Pokuri
-
-Hyderabad is known for its rich culinary heritage, especially its blend of Mughlai, Turkish, and Arabic influences. One of the most famous dishes from Hyderabad is "Hyderabadi Biryani," a flavorful rice dish cooked with aromatic spices, saffron, and marinated meat (usually chicken, mutton, or goat). Another popular dish is "Haleem," a thick stew made of wheat, barley, meat, and lentils, slow-cooked for hours to achieve a smooth, paste-like consistency. "Hyderabadi cuisine" is also known for its desserts like "Double ka Meetha," a bread pudding made with fried bread slices soaked in sweetened milk, garnished with nuts and saffron. The city is also famous for its street food, including "Hyderabadi Mirchi Bajji," which are deep-fried chili peppers stuffed with a spicy mixture.
-You can see my profile picture here. [![Pallavi Pokuri](mypic.jpg)](MyMedia.md)
