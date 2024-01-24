@@ -38,7 +38,9 @@ In this section, I will recommend four distinct books for you to consider trying
 
 ---
 
-##Quotes
+## Quotes
+  
+  In this section I am provide  2 quotes : 
 
 > "Nothing is impossible. The Word itself says I'm Possible."
 > -*Audrey Hepburn
