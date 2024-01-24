@@ -55,7 +55,8 @@ In this section, I will recommend four distinct books for you to consider trying
 
 *Source:* (https://code.pieces.app/collections)
 
-[CSS-tricks link](https://code.pieces.app/collections/javascript)
+(https://code.pieces.app/collections/javascript)
+
 ```
 const difference = (a, b) => {
   const s = new Set(b);
