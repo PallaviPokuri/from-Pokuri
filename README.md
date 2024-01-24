@@ -35,3 +35,12 @@ In this section, I will recommend four distinct books for you to consider trying
 | The Alchemist        | The book teach us to follow dreams and pursue your personal Legend. |Pulo Coelho  |
 | Everyone Has a Story            |The book is to develop the relations and Bondings.  | Savi SSharma |
 | The Sita Warrior of Mithila      |The Moral of Story is Leading Life in mythological way. | Amish Thripati                 |
+
+
+##quotes
+
+> "Nothing is impossible. The Word itself says I'm Possible."
+> -*Audrey Hepburn
+
+> "Happiness is not a matter of intensity but of balance, order, rhythm and harmony."
+> -*Thomas Merton
