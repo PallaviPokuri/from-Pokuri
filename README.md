@@ -36,8 +36,9 @@ In this section, I will recommend four distinct books for you to consider trying
 | Everyone Has a Story            |The book is to develop the relations and Bondings.  | Savi SSharma |
 | The Sita Warrior of Mithila      |The Moral of Story is Leading Life in mythological way. | Amish Thripati                 |
 
+---
 
-##quotes
+##Quotes
 
 > "Nothing is impossible. The Word itself says I'm Possible."
 > -*Audrey Hepburn
