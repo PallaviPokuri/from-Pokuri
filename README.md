@@ -47,3 +47,20 @@ In this section, I will recommend four distinct books for you to consider trying
 
 > "Happiness is not a matter of intensity but of balance, order, rhythm and harmony."
 > -*Thomas Merton
+
+---
+## Code Fencing
+
+>*Question:* How to find difference between arrays in JavaScript?
+
+*Source:* [Stack Overflow](https://stackoverflow.com/questions/1187518/how-to-get-the-difference-between-two-arrays-in-javascript)
+```
+const difference = (a, b) => {
+  const s = new Set(b);
+  return a.filter(x => !s.has(x));
+};
+
+console.log(difference([1, 2, 3], [1, 2, 4]));
+
+```
+
