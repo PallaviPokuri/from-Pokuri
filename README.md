@@ -53,7 +53,7 @@ In this section, I will recommend four distinct books for you to consider trying
 
 >*Question:* How to find difference between arrays in JavaScript?
 
-*Source:* [Stack Overflow](https://stackoverflow.com/questions/1187518/how-to-get-the-difference-between-two-arrays-in-javascript)
+*Source:* (https://code.pieces.app/collections)
 
 [CSS-tricks link](https://code.pieces.app/collections/javascript)
 ```
